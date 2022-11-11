@@ -1,0 +1,36 @@
+div#registration_form {
+    width: 62%;
+    margin-left: 18%;
+    margin-right: 2%;
+    min-height: 95%;
+}
+
+div#registration_form h1 {
+    text-align: center;
+}
+
+div#registration_form form {
+	margin: 0;
+	width: 100%;
+    border: none;
+}
+
+div#registration_form button {
+    margin-top: 10px;
+}
+
+div#registration_form button:hover {
+    background-color: #f7de9e;
+}
+
+div#registration_form div.field label {
+    display: block;
+    width: 200px;
+    height: 15px;
+    float: none;
+    padding-top: 9px;
+}
+
+div#registration_form div.field input {
+    width: 100%;
+}

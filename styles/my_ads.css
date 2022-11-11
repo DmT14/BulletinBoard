@@ -1,0 +1,56 @@
+form#user_ad {
+    width: 98%;
+    margin: 0;
+    margin-bottom: 15px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+form#user_ad button {
+    float: right;
+    margin-left: 5px;
+    border-radius: 6px;
+}
+
+form#user_ad button:hover {
+    background-color: #f7de9e;
+}
+
+form#user_ad div.advert {
+	width: 100%;
+}
+
+div.advert img {
+	float: left;
+	margin: 5px;
+}
+
+div.advert span.id {
+	float: left;
+}
+
+div.advert span.category {
+	margin-left: 10px;
+    font-weight: bold;
+}
+
+div.advert span.date {
+	float: right;
+}
+
+div.advert span.user {
+    float: right;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+div#categories div#chosen {
+	color: #800000;
+    background-color: #b4ffa1;
+}
+
+div#categories div#chosen:hover {
+	background-color: #b4ffa1;
+}

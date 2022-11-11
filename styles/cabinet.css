@@ -1,0 +1,15 @@
+table {
+    padding: 3px;
+    border-spacing: 10px;
+    font-size: 14pt;
+}
+
+div#content td {
+    padding: 3px;
+    font-weight: bold;
+}
+
+div#content td.head_cell {
+    border-right: 1px solid black;
+    font-weight: normal;
+}

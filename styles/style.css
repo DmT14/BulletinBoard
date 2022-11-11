@@ -1,0 +1,145 @@
+html {
+    height: 98%;
+}
+
+body {
+    height: 98.4%;
+    background-image: url(../img/background.jpg);
+}
+
+form {
+    width: 15%;
+    margin-left: 42%;
+    margin-right: 42%;
+    margin-top: 10%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+input {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 70%;
+    margin: 8px 0;
+}
+
+a {
+    color: #2840b8;
+    text-decoration: none;
+}
+
+div {
+    display: inline-block;
+}
+
+div#categories {
+    position: fixed;
+    width: 16%;
+    float: left;
+    margin: 8px;
+    font-size: 20px;
+    text-align: left;
+    vertical-align: top;
+}
+
+div#categories a {
+    color: #800000;
+    text-decoration: none;
+}
+
+div#categories div {
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
+div#categories div.categories {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+div#categories div.categories:hover {
+    background-color: #FF7F50;
+}
+
+div#content {
+    width: 62%;
+    margin-left: 18%;
+    margin-right: 2%;
+    min-height: 95%;
+}
+
+div#content div.advert {
+    width: 98%;
+}
+
+div#content p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+div#content table td#change_data_cell {
+    text-align: center;
+    padding-top: 30px;
+}
+
+div#right {
+    position: fixed;
+    width: 17.5%;
+    float: right;
+    margin: 8px;
+    text-align: center;
+}
+
+div#right form {
+    width: 90%;
+    margin: 0;
+}
+
+div.field label {
+    display: block;
+    width: 70px;
+    height: 15px;
+    float: left;
+    padding-top: 9px;
+}
+
+div#right p {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: left;
+}
+
+div#right button#add_advert {
+    width: 80%;
+    height: 50px;
+    margin-top: 15px;
+    background-color: #e8c772;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-family: Times New Roman;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+div#right button:hover, div#content button:hover {
+    background-color: #f7de9e;
+}
+
+div#footer {
+    width: 100%;
+    min-height: 5%;
+    background-color: #c2ae67;
+    text-align: center;
+}
+
+div#footer p {
+    margin: 2px;
+}

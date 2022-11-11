@@ -1,0 +1,57 @@
+div.advert {
+	width: 100%;
+	margin-bottom: 15px;
+	padding: 5px;
+	border: 1px solid black;
+	border-radius: 15px;
+}
+
+div.advert img {
+	float: left;
+	margin: 5px;
+}
+
+div.advert span.id {
+	float: left;
+}
+
+div.advert span.category {
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+div.advert span.type {
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+div.advert span.date {
+	float: right;
+}
+
+div.advert span.user {
+	float: right;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+form#for_who, form#back {
+	display: inline-block;
+	float: right;
+	margin: 0;
+	border: none;
+	text-align: right;
+}
+
+form#for_who {
+	width: 30%;
+}
+
+div#categories div#chosen {
+	color: #800000;
+	background-color: #b4ffa1;
+}
+
+div#categories div#chosen:hover {
+	background-color: #b4ffa1;
+}
