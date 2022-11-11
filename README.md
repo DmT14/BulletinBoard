@@ -28,4 +28,4 @@
 <br><img src="https://github.com/DmT14/BulletinBoard/blob/main/screenshots/archive.png" alt="Архив объявлений" width="800"/>
 
 ## Дополнительная информация
-Если Вы хотите подробнее ознакомиться с материалами проекта, можете посмотреть [этот документ](https://disk.yandex.ru/i/jWcWcYx6pbfUvA).
+Если Вы хотите подробнее ознакомиться с материалами проекта, можете посмотреть [этот документ](https://disk.yandex.ru/i/xR4A4-AYrPTVlQ).
